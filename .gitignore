@@ -1,0 +1,9 @@
+# ~/resume/jjradler_modular_resume/.gitignore
+# Ignore XeTeX log files
+*.log
+*.aux
+*.out
+*.synctex.gz
+
+# Ignore NOTES
+NOTES.md
